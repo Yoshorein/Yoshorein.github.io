@@ -14,9 +14,9 @@ Elève ingénieur en [préciser sa spécialité]
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[oscar.grivelet[at]gmail.com](mailto:oscar.grivelet@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/Oscar.Grivelet)
 
 Permis B, voiture
 
