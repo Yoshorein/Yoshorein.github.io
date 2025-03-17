@@ -8,13 +8,10 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Oscar GRIVELET
+Elève ingénieur en prépa intégré en Energie et Numérique
 
-
-Disponible XX mois à partir de Date
-
-[oscar.grivelet[at]gmail.com](mailto:oscar.grivelet@gmail.com)
+[oscar.grivelet@gmail.com](mailto:oscar.grivelet@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Oscar.Grivelet)
 
